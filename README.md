@@ -52,7 +52,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 ## Dataset
 
-The app uses the [Mall Customers dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial) with the following columns:
+The app uses the Mall Customers dataset with the following columns:
 
 - `CustomerID`: Unique customer identifier
 - `Gender`: Male/Female
